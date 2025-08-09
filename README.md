@@ -48,7 +48,8 @@ ________________________________________
 
 <img width="1913" height="1019" alt="Screenshot 2025-08-09 134757" src="https://github.com/user-attachments/assets/47eef176-afff-4c02-99c1-14737b22658b" />
 
-<img width="843" height="656" alt="Screenshot 2025-08-09 134819" src="https://github.com/user-attachments/assets/2dc36991-5d18-4081-89b7-ccc819d8de01" />
+<img width="1908" height="1017" alt="image" src="https://github.com/user-attachments/assets/476c9dc0-0f8e-4728-bcf9-c3a8b0f405ce" />
+
 
 
 ________________________________________
