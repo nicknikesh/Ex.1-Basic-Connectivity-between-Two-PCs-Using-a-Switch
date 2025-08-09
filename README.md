@@ -51,7 +51,6 @@ ________________________________________
 <img width="843" height="656" alt="Screenshot 2025-08-09 134819" src="https://github.com/user-attachments/assets/2dc36991-5d18-4081-89b7-ccc819d8de01" />
 
 
-Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
